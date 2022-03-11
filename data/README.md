@@ -1,0 +1,1 @@
+MNIST and CIFAR10 dataset will be automatically downloaded in this directory.
