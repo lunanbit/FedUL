@@ -146,7 +146,7 @@ If you find this code useful, please cite in your research papers.
 ```
 @inproceedings{
     lu2022unsupervised,
-    title={Unsupervised Federated Learning is Possible},
+    title={Federated Learning from Only Unlabeled Data with Class-Conditional-Sharing Clients},
     author={Nan Lu and Zhao Wang and Xiaoxiao Li and Gang Niu and Qi Dou and Masashi Sugiyama},
     booktitle={International Conference on Learning Representations},
     year={2022},
